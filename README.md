@@ -13,12 +13,12 @@ Soy un Químico Farmacéutico Biológico en transición al mundo de los datos. M
 
 ### 🚀 Proyectos Destacados
 
-#### [Telecomunicaciones: Identificación de Operadores Ineficaces](telecom-efficiency-analysis)
+#### 📞 [Telecomunicaciones: Identificación de Operadores Ineficaces](telecom-efficiency-analysis)
 * **Objetivo:** Definir KPIs de eficiencia y detectar operadores con bajo desempeño en un servicio de telefonía virtual.
 * **Metodología:** Procesamiento de logs masivos y validación mediante pruebas de **Mann-Whitney U** para comparar tiempos de espera, manejando distribuciones no normales.
 * **Impacto:** Generación de un listado diagnóstico para la toma de decisiones gerenciales.
 
-#### [Análisis A/A/B: Experimento de Interfaz de Usuario](ab-testing-food-app)
+#### 🛒 [Análisis A/A/B: Experimento de Interfaz de Usuario](ab-testing-food-app)
 * **Objetivo:** Evaluar si un cambio en el diseño de fuentes afectaba la conversión en una App alimentaria.
 * **Metodología:** Análisis de embudos (funnels) y pruebas de proporciones (**Z-test**) con **Corrección de Bonferroni** para mitigar el problema de comparaciones múltiples.
 * **Impacto:** Se demostró que el cambio de diseño no alteraba el comportamiento del usuario, evitando gastos innecesarios de implementación.
