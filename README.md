@@ -33,9 +33,11 @@ Soy un Químico Farmacéutico Biológico interesado en el mundo de los datos. Mi
 ### 💼 Experiencia "Data-Driven" en el Sector Salud
 Antes de mi formación formal en Data Analyst, implementé:
 * **Automatización de Auditorías:** Macros en VBA para validar cédulas profesionales vs. registros web.
-![Cedulas](Cedulas.mp4)
+[![Macro para Cedulas Profesionales](URL_DE_MINIATURA)](https://drive.google.com/file/d/1Ouj11AogAkorl2XgkA4ddbGuqbhe116q/view)
+
 * **Control de Inventarios:** Integración de reportes de ERP (LDCOM) mediante scripts en Excel, lo que permitió reducir significativamente el tiempo de elaboración de reportes de inventario.
-![Existencia](Existencias.mp4)
+[![Macro para Reportes de Existencias](URL_DE_MINIATURA)](https://drive.google.com/file/d/13ByenbebusJ_079FKVsrI0im8JHFvIeg/view)
+
 * **Procesamiento de Big Data Operativo:** Gestioné y normalicé +1 millón de registros de temperatura y humedad provenientes de 500 archivos fuente (.txt). Utilicé Power BI (Power Query/DAX) para automatizar la limpieza y el redondeo de intervalos temporales, garantizando el cálculo preciso de la Temperatura Media Cinética (MKT).
 ![Mean Kinetic Temperature](MKT.gif)
 
